@@ -8,8 +8,13 @@ pandas = "*"
 numpy = "*"
 seaborn = "*"
 firstmlproject = {editable = true, file = "file:///Users/rosireddyvangala/Documents/ML/First_ML_Project"}
+sklearn = "*"
+scikit-learn = "*"
+catboost = "*"
+xgboost = "*"
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
 python_version = "3.11"
